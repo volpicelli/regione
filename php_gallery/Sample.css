@@ -1,0 +1,76 @@
+﻿body
+{
+	margin: 0px;
+	color:#aaa;
+	padding-bottom: 10px;
+    font-family: "Segoe UI", sans-serif;
+	font-size:12px;
+	background-color:#222;
+}
+
+.nav {
+    margin:10px 15px 10px 15px;
+    padding:0 10px;
+    background-color:#444444;
+    height: 30px;
+    line-height: 27px;
+    font-size: 110%;
+}
+
+.nav a {
+}
+.nav a:link, .nav a:visited {
+    color: #fff;
+}
+.nav a.current, .nav a:hover, .nav a:active {
+    color: #ECF5FE;
+}
+.Accent
+{
+	margin:0 3px 0 5px;
+}
+a {color:#ccc;text-decoration: underline}
+
+h1 {
+	FONT-SIZE: 18px; margin:0 0 10px 0;
+}
+h2 {
+	FONT-SIZE: 16px; margin:0 0 10px 0;
+}
+img
+{
+	border:0;
+}
+td
+{
+ vertical-align:top;	
+}
+#Common
+{
+	background-color: #ffffff;
+	
+	width:820px;margin:0 auto;text-align:left;
+}
+#CommonHeader
+{
+	width: 100%;
+	overflow: hidden;
+	background-color:#303030;
+}
+#CommonBody
+{
+	width: 100%;
+	padding-bottom:40px;
+	background-color:#303030;
+}
+.box{
+	margin-bottom:10px;
+	padding:8px;
+	background-color:#222;
+	color:#fff;
+}
+.example
+{	
+    font-size: 110%;
+    font-family: "Segoe UI", sans-serif;
+}
